@@ -9,6 +9,6 @@ Here the specified task is completed but there are some lackings . Both of them 
 3) The ttl feature can be activated by visitinng the endpoint /delete.
 4) The sql file is inserted with the project
 
-## Lackins
+## Lackings
 1) It doesn't autometically delete the expired data . To do that automnaticallt  First i wanted to schedule a artisan command call (queue:work).
 2) Then it will periodically run the queued jobs . But i couldn't add cronjob locally . So did it manually . 
